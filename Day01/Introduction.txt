@@ -1,0 +1,11 @@
+1)What is Devops?
+- Devops is the culture which allows to automate the software Devlopement process so that the time to market of software is reduced considerably. It reduces the gap between Development and Opertions team.By using various Devops tools manual intervention is reduced and thus less prone to errors.
+
+2)What is automation,scaling,infrastructure?
+- Automation is process in which we develop scripts or tools which reduces manual process and helps to do the task faster with greater precision.
+Scaling helps to handle unexpected load on server,if there is high traffic coming to server we can scale up and when traffic reduces we can scale down.In AWS using AGS(Auto Scaling Group) we can handle scaling.
+Infrastructure is the backbone of any software. Better the infra then we can create high quality software.
+
+3) why DevOps is important?
+- Beacuse it acts as a bridge between Development and Operatioss team. so the can collaberate and help to build the software with qualtiy and ealry.
+It helps to monitor the application with different tools so that we can take decision based on its performance. 
