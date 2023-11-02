@@ -1,0 +1,4 @@
+1)check present working directory - PWD
+2)list all the file or directories including hidden files - ls -a
+3)create nested directories A/B/C/D  --> mkdir -p A/B/C/D
+4)to list on directories --> ls -d /home/harshad
